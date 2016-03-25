@@ -57,7 +57,7 @@ class Config
         /**
          * Site and Email Title
          */
-        define('SITETITLE', 'V2.2');
+        define('SITETITLE', 'UAP V2.1');
 
         /**
          * Set prefix for sessions.
@@ -111,7 +111,7 @@ class Config
 
         // Email port
         // default : 25 (https://www.arclab.com/en/kb/email/list-of-smtp-and-pop3-servers-mailserver-list.html)
-        define('EMAIL_PORT', 25);
+        define('EMAIL_PORT', '25');
 
         // Email authentication
         // default : ssl
