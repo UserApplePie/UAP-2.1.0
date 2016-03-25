@@ -1,5 +1,7 @@
 # UAP Version 2.1.0 - Coming Soon
 
+[![Join the chat at https://gitter.im/UserApplePie/UAP-2.1.0](https://badges.gitter.im/UserApplePie/UAP-2.1.0.svg)](https://gitter.im/UserApplePie/UAP-2.1.0?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 We are starting from scratch with UAP2.  This build is expected to take some time.  Check back soon for updates!
